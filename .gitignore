@@ -1,4 +1,9 @@
 # --- Model ---
 *.pth
+*.pt
 
+# --- Other ---
 .env
+venv/
+__pycache__/
+.DS_Store
